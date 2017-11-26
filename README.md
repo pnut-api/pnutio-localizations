@@ -11,7 +11,6 @@ Translations are currently wanted for:
 * de_DE
 * es_ES
 * fi_FI
-* fr_FR
 * gl_ES
 * hu_HU
 * it_IT
