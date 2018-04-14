@@ -8,7 +8,6 @@ Translations are currently wanted for:
 
 * bg_BG
 * cs_CZ
-* de_DE
 * es_ES
 * fi_FI
 * gl_ES
