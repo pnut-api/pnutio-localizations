@@ -13,7 +13,6 @@ Translations are currently wanted for:
 * gl_ES
 * hu_HU
 * it_IT
-* ja_JP
 * ko_KR
 * lv_LV
 * nl_NL
