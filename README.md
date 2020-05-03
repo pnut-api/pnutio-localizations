@@ -8,13 +8,11 @@ Translations are currently wanted for:
 
 * bg_BG
 * cs_CZ
-* de_DE
 * es_ES
 * fi_FI
 * gl_ES
 * hu_HU
 * it_IT
-* ja_JP
 * ko_KR
 * lv_LV
 * nl_NL
